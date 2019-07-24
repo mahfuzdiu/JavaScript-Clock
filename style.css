@@ -1,0 +1,25 @@
+.header{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
+#digital_clock{
+	font-family: 'Digital-7';
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 10px;
+	background: black;
+	color: red;
+	font-size: 60px;
+	box-shadow: 0 0 10px rgba(250,0,0,1);
+}
+
+#d_date{
+	font-size: 20px ;
+	margin-left: 150px;
+}
+
+#ampm{
+	font-size: 15px;
+}
