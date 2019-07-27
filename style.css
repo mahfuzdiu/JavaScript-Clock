@@ -26,6 +26,7 @@
 	padding-top: 15px;
 	padding-bottom: 15px;
 	margin-bottom: 15px;
+	font-family: 'Digital-7';
 }
 
 #digital_clock{
@@ -35,7 +36,7 @@
 	border-radius: 10px;
 	background: black;
 	color: red;
-	font-size: 60px;
+	font-size: 75px;
 	box-shadow: 0 0 10px rgba(250,0,0,1);
 }
 
